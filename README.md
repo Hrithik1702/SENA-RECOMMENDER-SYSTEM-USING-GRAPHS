@@ -12,7 +12,7 @@ Technology world today revolves around making robust use of data available in ab
 - Graph Network Visualization Using Gephi and Metrics Inference
 - Graph Metrics Inference Using Networkx
 - Community Detection in Social Graph
-  - Lovain Algorithm
+  - Louvain Algorithm
   - Leiden Algorithm
 - Comparative Analysis of Social Recommender Systems
   - SoRec
